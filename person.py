@@ -26,5 +26,5 @@ class Person:
 
 ####################### End of class Definition ###############################
 
-me = Person('ggibjustin','8589Gj00','ggibjustin@gmail.com')
-kevin = Person('jpl.lineman','1Whalebone','jpl.lineman@gmail.com')
+me = Person('ggibjustin','MeTestPass','ggibjustin@gmail.com')
+kevin = Person('jpl.lineman','KevinTestPass','jpl.lineman@gmail.com')
